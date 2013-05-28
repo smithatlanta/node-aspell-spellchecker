@@ -56,11 +56,10 @@ Add express route:
 
 Add spellcheck function call:
 
-		requires('node-aspell-spellchecker);
-		spellchecker = function(req, res)
+		var spellcheck = requires('node-aspell-spellchecker);
+		function spellchecker(req, res)
 		{
-			var check = new spellCheck();
-			check.dospellcheck(req, function(data){
+			spellcheck(req, function(data){
 				res.json(data);
 			});
 		};
