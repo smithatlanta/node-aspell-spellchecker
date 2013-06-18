@@ -1,7 +1,7 @@
 {
   "name": "node-aspell-spellchecker",
   "description": "node replacement for php webservice for jquery-spellchecker",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": {
     "name": "smithatlanta"
   },
@@ -25,11 +25,11 @@
   "main": "spellcheck",
   "scripts": {
   },
-  "readme": "# node-aspell-spellchecker (v0.0.3) node replacement for php webservice in jquery-spellchecker\n\n## INSTALLING\n\n\tnpm install node-aspell-spellchecker\n\n## Authors\n\nsmithatlanta\n\n## Contributions\n\nissues and pull requests are welcome\n",
+  "readme": "# node-aspell-spellchecker (v0.0.4) node replacement for php webservice in jquery-spellchecker\n\n## INSTALLING\n\n\tnpm install node-aspell-spellchecker\n\n## Authors\n\nsmithatlanta\n\n## Contributions\n\nissues and pull requests are welcome\n",
   "readmeFilename": "Readme.md",
   "bugs": {
     "url": "https://github.com/smithatlanta/node-aspell-spellchecker/issues"
   },
-  "_id": "node-aspell-spellchecker@0.0.3",
+  "_id": "node-aspell-spellchecker@0.0.4",
   "_from": "node-aspell-spellchecker@>= 0.0.x"
 }
